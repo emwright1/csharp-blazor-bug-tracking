@@ -1,10 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2536b01b_002De4c4_002D4de9_002Db9fc_002Dd6e01e5af63e/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="1" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;And&gt;&#xD;
-    &lt;Project Location="D:\Dev\Pluralsight\Projects\blazor-bug-tracking\csharp-blazor-bug-tracking\BugTrackerUI.Tests" Presentation="&amp;lt;BugTrackerUI.Tests&amp;gt;" /&gt;&#xD;
-    &lt;Namespace&gt;M2_BugTrackerUI.Tests.CreatingNavigationAndComponents&lt;/Namespace&gt;&#xD;
-  &lt;/And&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee90abbd_002Da1a7_002D4e17_002Da936_002D8c80d6c66801/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;BugTrackerUI.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee90abbd_002Da1a7_002D4e17_002Da936_002D8c80d6c66801/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="1" Name="All tests from &amp;lt;BugTrackerUI.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="D:\Dev\Pluralsight\Projects\blazor-bug-tracking\csharp-blazor-bug-tracking\BugTrackerUI.Tests" Presentation="&amp;lt;BugTrackerUI.Tests&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
